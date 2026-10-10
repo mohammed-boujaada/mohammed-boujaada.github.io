@@ -10,7 +10,7 @@ repository               : "mohammed-boujaada/mohammed-boujaada.github.io"
 # Tes liens (mets tes vrais liens ou laisse # pour masquer)
 author:
   name             : "Mohammed Boujaada"
-  avatar           : "/images/image.png" # On ajoutera ta photo plus tard
+  avatar           : "/images/profile.png" # On ajoutera ta photo plus tard
   bio              : "Passionné par l'IA, les systèmes experts et le déploiement cloud."
   location         : "Maroc" # (ou ta ville)
   email            : "ton.email@exemple.com" # Mets ton email pro/étudiant
