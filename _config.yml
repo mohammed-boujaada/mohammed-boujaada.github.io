@@ -1,19 +1,9 @@
-# Site Settings
-title                    : "Mohammed Boujaada"
-title_separator          : "-"
-name                     : "Mohammed Boujaada"
-description              : "Étudiant en Master MIATE | Intelligence Artificielle, Cloud Computing (Azure) & Big Data"
-url                      : "https://mohammed-boujaada.github.io" # Remplace par ton lien exact
-baseurl                  : "" 
-repository               : "mohammed-boujaada/mohammed-boujaada.github.io"
-
-# Tes liens (mets tes vrais liens ou laisse # pour masquer)
 author:
   name             : "Mohammed Boujaada"
-  avatar           : "/images/profile.png" # On ajoutera ta photo plus tard
-  bio              : "Passionné par l'IA, les systèmes experts et le déploiement cloud."
-  location         : "Maroc" # (ou ta ville)
-  email            : "ton.email@exemple.com" # Mets ton email pro/étudiant
+  avatar           : "/images/profile.png"
+  bio              : "Étudiant en Master IA & Technologies Émergentes | Recherche de PFE"
+  location         : "Taourirt, Maroc"
+  email            : "Mohammedboujaada51@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -26,7 +16,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "ton-profil-linkedin" # Ex: mohammed-boujaada
+  linkedin         : "mohammed-boujaada"
   orcid            : 
   pinterest        :
   soundcloud       :
