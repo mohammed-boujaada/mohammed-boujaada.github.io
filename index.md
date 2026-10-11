@@ -1,15 +1,12 @@
 ---
-title: "Accueil"
-layout: splash
+title: "Mohammed Boujaada"
+layout: single
+author_profile: true
 permalink: /
-excerpt: "Mohammed Boujaada - Étudiant en Master MIATE"
 ---
 
-# Mohammed Boujaada
-## Étudiant en Master MIATE | Intelligence Artificielle & Cloud Computing
+Bonjour, je suis **Mohammed Boujaada**, étudiant en Master **Intelligence Artificielle et Technologies Émergentes (MIATE)**.
 
-Bienvenue sur mon portfolio professionnel. 
-Je suis passionné par le développement de solutions d'IA, les systèmes experts et le déploiement d'applications sur Microsoft Azure.
+Ce portfolio présente mes réalisations académiques et personnelles, avec un accent sur le développement de solutions d'IA, les systèmes experts et le déploiement d'applications sur Microsoft Azure.
 
-[🚀 Découvrir mes projets](/portfolio/){: .btn .btn--primary}
-[📄 Voir mon CV](/files/cv.pdf){: .btn .btn--outline}
+N'hésitez pas à consulter mes [Projets](/portfolio/) ou à télécharger mon [CV](/cv/).
