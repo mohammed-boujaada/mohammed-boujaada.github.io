@@ -1,43 +1,23 @@
 ---
-title: "Mohammed Boujaada"
-layout: single
-author_profile: true
 permalink: /
+title: "Mohammed Boujaada"
+excerpt: "Étudiant en Master IA, à la recherche d'un stage PFE"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-## À propos de moi
+Je conçois des systèmes d'IA qui résolvent des problèmes concrets, du prototype de recherche jusqu'au déploiement.
 
-Étudiant en Master Intelligence Artificielle et Technologies Émergentes (MIATE) à la Faculté des Sciences Appliquées de Nador. Mon parcours se situe à l'intersection de la Data Science (Spark, Machine Learning, Vision par ordinateur) et de l'ingénierie Cloud (Microsoft Azure, Docker, architectures NoSQL). 
+Je suis étudiant en Master Intelligence Artificielle et Technologies Émergentes (MIATE) à la Faculté des Sciences Appliquées de Nador, Université Mohammed Premier. J'ai une licence en génie logiciel obtenue à la FST d'Errachidia.
 
-Je conçois des solutions logicielles complètes, du traitement des données jusqu'au déploiement d'applications web. Actuellement à la recherche d'un stage de fin d'études (PFE) pour concevoir et déployer des solutions innovantes en Intelligence Artificielle, Data ou Cloud.
+Mes projets couvrent la vision par ordinateur, le Big Data (pipelines batch et streaming avec Spark et Kafka), le cloud (déploiement sur Azure) et le deep learning sur graphes.
 
----
+## Stage PFE à partir de mars 2027
 
-## Projets récents
+Je cherche une équipe en IA, machine learning et vision par ordinateur, en data et Big Data, ou en cloud et MLOps.
 
-* **Segmentation des Clients E-commerce** : Pipeline ETL PySpark et algorithme K-Means appliqué à 541 909 transactions.
-* **Vision par Ordinateur Avancée** : Pipeline de traitement d'images intégrant Grounding DINO, SAM, MiDaS et un assistant multimodal local (Ollama).
-* **CampusVoice** : Plateforme web de feedback anonyme développée en Python/Flask et déployée sur Microsoft Azure.
-* **SÉOA (Système Expert d'Orientation Académique)** : Système à chaînage avant basé sur 18 règles conditionnelles avec interface graphique Tkinter.
-
-[Consulter l'ensemble de mes projets](/portfolio/)
-
----
-
-## Compétences techniques
-
-| Domaine | Technologies et Outils |
-|---------|------------------------|
-| **IA et Data Science** | Machine Learning, Deep Learning, Vision par ordinateur, Scikit-learn, OpenCV, PySpark, Spark MLlib |
-| **Big Data et Cloud** | Apache Kafka, Spark Structured Streaming, Parquet, Microsoft Azure, Docker, Azure SQL |
-| **Développement** | Python, Flask, Java, JavaScript, SQL, Git, GitHub, Jupyter, Linux CLI |
-| **Bases de données** | MongoDB, Redis, Neo4j, Cassandra |
-
----
-
-## Contact
-
-**Email** : Mohammedboujaada51@gmail.com  
-**LinkedIn** : [linkedin.com/in/mohammed-boujaada](https://linkedin.com/in/mohammed-boujaada)  
-**GitHub** : [github.com/mohammed-boujaada](https://github.com/mohammed-boujaada)  
-**Téléphone** : +212 649 040 232
+- [Voir mes projets](/portfolio/)
+- [Consulter mon CV](/cv/)
+- Me contacter : [mohammed.boujaada@ump.ac.ma](mailto:mohammed.boujaada@ump.ac.ma)
