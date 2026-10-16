@@ -6,11 +6,6 @@ permalink: /cv/
 
 Vous pouvez consulter mon parcours académique et mes expériences ci-dessous. 
 
-<<<<<<< HEAD
-*(Nous ajouterons ton vrai CV en PDF ici dans un instant)*
-
----
-=======
 ## Formation
 - **Master MIATE** (Intelligence Artificielle et Technologies Émergentes), en cours.
 - Formation orientée **IA**, **Cloud Computing** et **Big Data**.
@@ -32,4 +27,3 @@ Vous pouvez consulter mon parcours académique et mes expériences ci-dessous.
 
 ## Télécharger mon CV
 <a href="{{ base_path }}/files/CV-Mohammed-Boujaada.pdf" class="btn btn--primary">Télécharger le CV (PDF)</a>
->>>>>>> 1af08a7 (Complete portfolio content)

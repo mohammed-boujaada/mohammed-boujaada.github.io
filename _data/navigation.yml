@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-main:
-  - title: "À propos"
-    url: /about/
-  - title: "Portfolio"
-    url: /portfolio/
-=======
 # Menu principal du site
 main:
   - title: "Projets"
     url: /portfolio/
-
->>>>>>> 1af08a7 (Complete portfolio content)
   - title: "CV"
     url: /cv/

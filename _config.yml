@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# À reporter dans TON _config.yml (remplacer uniquement ces lignes, ne pas écraser le fichier)
-locale                   : "fr-FR"
-=======
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -11,29 +7,13 @@ locale                   : "fr-FR"
 # server process.
 
 # Basic Site Settings
-locale                   : "fr-FR"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
->>>>>>> 1af08a7 (Complete portfolio content)
+locale                   : "fr-FR"
 title                    : "Mohammed Boujaada"
 title_separator          : "-"
 name                     : &name "Mohammed Boujaada"
 description              : "Étudiant en Master IA (MIATE), recherche un stage PFE à partir de mars 2027"
 url                      : "https://mohammed-boujaada.github.io"
-<<<<<<< HEAD
-baseurl                  : ""
-repository               : "mohammed-boujaada/mohammed-boujaada.github.io"
-
-author:
-  avatar           : "profile.jpg"
-  name             : "Mohammed Boujaada"
-  bio              : "Étudiant en Master IA et Technologies Émergentes, Université Mohammed Premier. Recherche un stage PFE (mars 2027)."
-  location         : "Nador, Maroc"
-  employer         : "Université Mohammed Premier"
-  email            : "mohammed.boujaada@ump.ac.ma"
-  github           : "mohammed-boujaada"
-  linkedin         : "mohammed-boujaada-229a3333a"
-  # Mettre en commentaire ou vider tous les autres liens (twitter, facebook, googlescholar, orcid, etc.)
-=======
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mohammed-boujaada/mohammed-boujaada.github.io"
 
@@ -333,4 +313,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
->>>>>>> 1af08a7 (Complete portfolio content)
