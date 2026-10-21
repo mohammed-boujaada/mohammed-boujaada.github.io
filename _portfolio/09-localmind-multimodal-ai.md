@@ -2,6 +2,7 @@
 title: "LocalMind — assistant IA multimodal"
 excerpt: "Assistant IA local pour le texte, la vision et l'audio, développé avec FastAPI, Ollama, LLaVA et Whisper.<br/>[Code sur GitHub](https://github.com/mohammed-boujaada/localmind-multimodal-ai)"
 collection: portfolio
+order: 1
 ---
 
 Assistant IA multimodal conçu pour fonctionner localement et réunir les interactions textuelles, l'analyse d'images et la transcription audio dans une application web.

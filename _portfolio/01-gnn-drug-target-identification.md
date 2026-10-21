@@ -2,6 +2,7 @@
 title: "Identification de cibles médicamenteuses par GNN"
 excerpt: "Projet de recherche de Master (avec Mohamed Zahir). PyTorch Geometric, GAT, STRING, DisGeNET.<br/>[Code sur GitHub](https://github.com/mohammed-boujaada/gnn-drug-target-identification)"
 collection: portfolio
+order: 3
 ---
 
 Classification de gènes associés au diabète sur un réseau d'interactions protéine-protéine humain, avec attention parcimonieuse et élagage de neurones.
