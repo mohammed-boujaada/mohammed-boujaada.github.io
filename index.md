@@ -20,7 +20,6 @@ Je recherche une équipe en IA, machine learning, vision par ordinateur, data, B
 
 <p>
   <a href="/portfolio/" class="btn btn--primary">Voir mes projets</a>
-  <a href="mailto:mohammed.boujaada@ump.ac.ma" class="btn btn--inverse">Me contacter</a>
+  <a href="mailto:mohammed.boujaada@ump.ac.ma" class="btn btn--primary">Me contacter</a>
+  <a href="/cv/" class="btn btn--primary">Consulter mon CV</a>
 </p>
-
-- [Consulter mon CV](/cv/)
