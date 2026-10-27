@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Je conçois des systèmes d'IA qui résolvent des problèmes concrets, du prototype de recherche jusqu'au déploiement.
+Je conçois des solutions d'intelligence artificielle pour résoudre des problèmes concrets, du prototype de recherche jusqu'au déploiement.
 
-Je suis étudiant en Master Intelligence Artificielle et Technologies Émergentes (MIATE) à la Faculté des Sciences Appliquées de Nador, Université Mohammed Premier. J'ai une licence en génie logiciel obtenue à la FST d'Errachidia.
+Je suis étudiant en Master Intelligence Artificielle et Technologies Émergentes (MIATE) à la Faculté des Sciences Appliquées de Nador, à l'Université Mohammed Premier. Je possède également une licence en génie logiciel obtenue à la FST d'Errachidia.
 
-Mes projets couvrent la vision par ordinateur, le Big Data (pipelines batch et streaming avec Spark et Kafka), le cloud (déploiement sur Azure) et le deep learning sur graphes.
+Mes projets couvrent la vision par ordinateur, le machine learning, le Big Data avec Spark et Kafka, le cloud avec Azure et le deep learning sur graphes.
 
 ## Stage PFE à partir de mars 2027
 
-Je cherche une équipe en IA, machine learning et vision par ordinateur, en data et Big Data, ou en cloud et MLOps.
+Je recherche une équipe en IA, machine learning, vision par ordinateur, data, Big Data ou cloud/MLOps, dans laquelle je pourrai contribuer à des projets utiles et développer mon expertise.
 
-- [Voir mes projets](/portfolio/)
+<p>
+  <a href="/portfolio/" class="btn btn--primary">Voir mes projets</a>
+  <a href="mailto:mohammed.boujaada@ump.ac.ma" class="btn btn--inverse">Me contacter</a>
+</p>
+
 - [Consulter mon CV](/cv/)
-- Me contacter : [mohammed.boujaada@ump.ac.ma](mailto:mohammed.boujaada@ump.ac.ma)
