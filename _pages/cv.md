@@ -12,9 +12,14 @@ Vous pouvez consulter mon parcours académique et mes expériences ci-dessous.
 
 ## Compétences
 - **Langages & frameworks** : Python, Flask, Tkinter.
-- **Cloud** : Microsoft Azure (Azure for Students), déploiement d'applications web.
+- **Cloud** : Microsoft Azure (Azure for Students), Cloud Computing en cours, déploiement d'applications web.
 - **IA** : systèmes experts basés sur des règles, logique conditionnelle, prototypage d'agents intelligents.
 - **Data** : structuration de données, automatisation de traitements, visualisation et reporting.
+
+## Certifications
+- **Machine Learning Specialization** — Coursera / DeepLearning.AI (2025)
+- **Machine Learning** — freeCodeCamp
+- **Programmation Python** — FUN MOOC (2025)
 
 ## Langues
 - Arabe : langue maternelle
