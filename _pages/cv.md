@@ -16,10 +16,6 @@ Vous pouvez consulter mon parcours académique et mes expériences ci-dessous.
 - **IA** : systèmes experts basés sur des règles, logique conditionnelle, prototypage d'agents intelligents.
 - **Data** : structuration de données, automatisation de traitements, visualisation et reporting.
 
-## Certifications
-- Azure Fundamentals (à ajouter si validée).
-- IA / Data (à compléter selon vos certifications officielles).
-
 ## Langues
 - Arabe : langue maternelle
 - Français : courant
