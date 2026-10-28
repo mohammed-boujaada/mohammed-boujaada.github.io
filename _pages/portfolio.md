@@ -5,9 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-# Projets
-## Projets
-
 {% include base_path %}
 
 {% assign projects = site.portfolio | sort: "order" %}
