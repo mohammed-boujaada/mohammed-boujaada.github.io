@@ -9,10 +9,10 @@
 # Basic Site Settings
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 locale                   : "fr-FR"
-title                    : "Mohammed Boujaada"
+title                    : "Mohammed Boujaada | Master IA & Data Science"
 title_separator          : "-"
 name                     : &name "Mohammed Boujaada"
-description              : "Étudiant en Master IA (MIATE), recherche un stage PFE à partir de mars 2027"
+description              : "Mohammed Boujaada | Étudiant en Master IA et Technologies Émergentes, Université Mohammed Premier. Recherche un stage PFE en Intelligence Artificielle, Machine Learning et Data Science à partir de mars 2027."
 url                      : "https://mohammed-boujaada.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mohammed-boujaada/mohammed-boujaada.github.io"
@@ -139,12 +139,14 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :
-og_description           :
+og_image                 : "/images/profile.jpg"
+og_description           : "Mohammed Boujaada, étudiant en Master IA et Technologies Émergentes à l’Université Mohammed Premier. Portfolio, projets IA, machine learning, data science et recherche."
 social:
-  type                   :
-  name                   :
+  type                   : "Person"
+  name                   : "Mohammed Boujaada"
   links:
+    - "https://www.linkedin.com/in/mohammed-boujaada-229a3333a"
+    - "https://github.com/mohammed-boujaada"
 
 # Analytics
 analytics:
