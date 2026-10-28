@@ -2,13 +2,13 @@
 main:
   - title: "Accueil"
     url: /
-  - title: "À propos"
-    url: /about/
-  - title: "Compétences"
-    url: /skills/
-  - title: "Certifications"
-    url: /certifications/
   - title: "Projets"
     url: /portfolio/
   - title: "CV"
     url: /cv/
+  - title: "À propos"
+    url: /about/
+  - title: "Compétences"
+    url: /skills/
+  - title: "Certifications & Learning"
+    url: /certifications/

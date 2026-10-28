@@ -5,21 +5,21 @@ permalink: /certifications/
 author_profile: true
 ---
 
-Je consacre une part importante de mon temps à l'apprentissage continu, en développant à la fois des compétences techniques solides et des capacités plus avancées en intelligence artificielle, en data et en cloud.
+# Certifications & Learning
 
-## Certifications et parcours en cours
+## Certifications & parcours de formation
 
 ### En cours
-- Deep Learning Specialization
-- Microsoft Azure Fundamentals (AZ-900)
-- Traitement du langage naturel avec classification et espaces vectoriels
-- IA générative, LLM et systèmes multi-agent
+- **Deep Learning Specialization**
+- **Microsoft Azure Fundamentals (AZ-900)**
+- **Traitement du langage naturel avec classification et espaces vectoriels**
+- **IA générative, LLM et systèmes multi-agent**
 
 ### Focus actuel
 - Apprentissage profond pour la vision et les séquences
 - Modèles de langage et intégration IA dans des systèmes applicatifs
 - MLOps, déploiement et mise en production de modèles
-- Machine learning robuste et interprétable
+- Machine learning robuste, interprétable et exploitable
 
 ## Domaines de formation priorisés
 
@@ -30,17 +30,17 @@ Je consacre une part importante de mon temps à l'apprentissage continu, en dév
 - Big Data et analytics
 - Cloud computing / Azure
 
-## Objectif de progression
+## Progression & objectif
 
-Mon objectif est d'acquérir une expertise complète dans la conception, la validation et le déploiement de solutions d'IA, en gardant une forte attention à la qualité scientifique, la précision technique et la faisabilité industrielle.
+Je consacre une part importante de mon temps à l’apprentissage continu, avec un objectif clair : acquérir une expertise solide et progressive dans la conception, la validation et le déploiement de solutions d’IA. J’accorde une attention particulière à la qualité scientifique, à la précision technique et à la faisabilité industrielle.
 
-##  Résumé
+## Résumé
 
-J'aime construire des solutions qui combinent :
+Je cherche à construire des solutions qui combinent :
 
 - rigueur scientifique
 - qualité du code
 - impact concret sur les utilisateurs
 - capacité de mise en production
 
-Je continue à m'informer et à m'entraîner sur des thématiques à forte valeur ajoutée pour les projets de recherche, de data, d'IA et de cloud.
+Je continue à m’informer et à m’entraîner sur des thématiques à forte valeur ajoutée pour les projets de recherche, de data, d’IA et de cloud.

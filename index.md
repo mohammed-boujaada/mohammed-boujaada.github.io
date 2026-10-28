@@ -10,11 +10,15 @@ redirect_from:
 
 # Mohammed Boujaada
 
-Étudiant en Master en Intelligence Artificielle et Technologies Émergentes (MIATE), à la Faculté des Sciences Appliquées de Nador, Université Mohammed Premier. Je conçois des solutions d'IA utiles, rationnelles et évolutives, en combinant recherche, ingénierie logicielle et mise en production.
+<em>Master IA & Technologies Émergentes • Computer Vision • Machine Learning • Data & Cloud</em>
+
+Étudiant en Master en Intelligence Artificielle et Technologies Émergentes (MIATE), à la Faculté des Sciences Appliquées de Nador, Université Mohammed Premier. Je construis des solutions d'IA utiles, robustes et prêtes à être déployées, en combinant recherche, développement logiciel et mise en production.
 
 <p>
   <a href="/portfolio/" class="btn btn--primary">Voir mes projets</a>
-  <a href="/about/" class="btn btn--primary">À propos</a>
+  <a href="/cv/" class="btn btn--primary">CV</a>
+  <a href="/skills/" class="btn btn--primary">Compétences</a>
+  <a href="/certifications/" class="btn btn--primary">Certifications</a>
   <a href="https://www.linkedin.com/in/mohammed-boujaada-229a3333a/" class="btn btn--primary" target="_blank" rel="noopener noreferrer">LinkedIn</a>
   <a href="mailto:mohammed.boujaada@ump.ac.ma" class="btn btn--primary">Me contacter</a>
 </p>
@@ -23,28 +27,27 @@ redirect_from:
 
 <div>
   <ul>
-    <li><strong>Systems that learn</strong> : machine learning, deep learning, computer vision</li>
-    <li><strong>Systems that scale</strong> : Spark, Kafka, pipelines de données, cloud architecture</li>
-    <li><strong>Systems that matter</strong> : solutions orientées utilisateur, recherche appliquée et impact réel</li>
+    <li><strong>Systems that learn</strong> : machine learning, deep learning et vision par ordinateur</li>
+    <li><strong>Systems that scale</strong> : Spark, Kafka, pipelines de données et architectures cloud</li>
+    <li><strong>Systems that matter</strong> : solutions orientées utilisateur, recherche appliquée et impact concret</li>
   </ul>
 </div>
 
 ## Domaines d'expertise
 
-- Intelligence artificielle
-- Machine learning & deep learning
-- Vision par ordinateur
-- Big Data & streaming
-- Cloud computing (Azure)
-- Systèmes experts et automatisation intelligente
-- Développement Python, Flask et interfaces graphiques
+- Intelligence artificielle et apprentissage automatique
+- Deep Learning et vision par ordinateur
+- Big Data, streaming et analytics
+- Cloud computing, Azure et déploiement applicatif
+- Systèmes experts, logique de décision et automatisation
+- Développement Python, Flask, APIs et interfaces interactives
 
 ## Pourquoi travailler avec moi ?
 
 - Je combine <strong>rigueur scientifique</strong> et <strong>sens pratique</strong>.
-- Je travaille sur des projets concrets, structurés et orientés résultats.
-- Je m'intéresse autant à la qualité des modèles qu'à leur capacité à être compris, déployés et exploités.
-- Je suis motivé par des défis à forte valeur ajoutée dans l'IA, les données et le cloud.
+- Je développe des projets concrets, structurés et orientés résultats.
+- Je valorise la qualité des modèles, leur explicabilité et leur capacité à être exploités en production.
+- Je suis motivé par des défis à forte valeur ajoutée en IA, data, cloud et systèmes intelligents.
 
 ## Projets phares
 
@@ -57,15 +60,15 @@ redirect_from:
 
 ## Focus actuel
 
-- Deep Learning Specialization : en cours
-- Microsoft Azure Fundamentals (AZ-900) : en cours
-- Traitement du langage naturel avec classification et espaces vectoriels : en progression
-- IA générative, LLM et systèmes multi-agent : apprentissage continu
+- <strong>Deep Learning Specialization</strong> : en cours
+- <strong>Microsoft Azure Fundamentals (AZ-900)</strong> : en cours
+- <strong>Traitement du langage naturel avec classification et espaces vectoriels</strong> : en progression
+- <strong>IA générative, LLM et systèmes multi-agent</strong> : apprentissage continu
 
 ## Formation
 
-- Master en Intelligence Artificielle et Technologies Émergentes (MIATE), Université Mohammed Premier, Nador
-- Licence en génie logiciel, FST Errachidia
+- <strong>Master en Intelligence Artificielle et Technologies Émergentes (MIATE)</strong> — Université Mohammed Premier, Nador
+- <strong>Licence en génie logiciel</strong> — FST Errachidia
 
 ## Contact
 
@@ -76,6 +79,6 @@ redirect_from:
 <p>
   <a href="/portfolio/" class="btn btn--primary">Découvrir mes projets</a>
   <a href="/skills/" class="btn btn--primary">Compétences</a>
-  <a href="/certifications/" class="btn btn--primary">Certifications</a>
+  <a href="/certifications/" class="btn btn--primary">Certifications & Learning</a>
   <a href="mailto:mohammed.boujaada@ump.ac.ma" class="btn btn--primary">Me contacter</a>
 </p>
