@@ -1,21 +1,36 @@
 ---
-title: "À propos de moi"
-excerpt: "Mohammed Boujaada - Étudiant en Master MIATE"
+title: "À propos"
+excerpt: "Mohammed Boujaada - Master IA & Technologies Émergentes"
 sitemap: false
 permalink: /about/
 ---
 
-Bonjour ! Je suis **Mohammed Boujaada**, étudiant en Master **Intelligence Artificielle et Technologies Émergentes (MIATE)**. 
+# À propos
 
-Je suis passionné par le développement de solutions intelligentes et leur déploiement dans des environnements cloud modernes. Mon parcours académique et mes projets pratiques m'ont permis de développer des compétences solides dans plusieurs domaines clés.
+Je suis **Mohammed Boujaada**, étudiant en Master **Intelligence Artificielle et Technologies Émergentes (MIATE)** à la Faculté des Sciences Appliquées de Nador, Université Mohammed Premier. Je m'intéresse à la conception de systèmes intelligents capables de résoudre des problèmes concrets, de la recherche à la mise en production.
 
-### 💡 Mes Domaines d'Expertise
-- **Intelligence Artificielle** : Développement d'agents intelligents, systèmes experts à base de règles, détection de mots-clés et logique conditionnelle.
-- **Cloud Computing & Big Data** : Déploiement d'applications web sur **Microsoft Azure** (utilisation d'Azure for Students), virtualisation et gestion de données.
-- **Développement** : Python, Flask, Tkinter (interfaces graphiques), et utilisation de bibliothèques symboliques comme SymPy.
+Mon parcours mêle intelligence artificielle, data science, développement logiciel et cloud computing. Je travaille sur plusieurs axes, notamment la vision par ordinateur, le deep learning, le machine learning, le traitement de données massives, ainsi que le déploiement de solutions applicatives dans des environnements modernes.
 
-### 🚀 Projets Récents
-1. **SEAO (Système Expert d'Orientation Académique)** : Développement d'un agent intelligent basé sur des règles avec une interface graphique Tkinter pour guider les étudiants.
-2. **CampusVoice** : Conception d'un système de feedback anonyme pour les cours universitaires, développé avec Flask et déployé sur Microsoft Azure.
+## Mes domaines d'intérêt
 
-Je suis toujours à la recherche de nouveaux défis pour appliquer mes connaissances en IA et en Cloud. N'hésitez pas à explorer mes projets ou à me contacter !
+- **Intelligence artificielle** : apprentissage supervisé, deep learning, vision par ordinateur, modélisation prédictive
+- **Big Data** : Spark, Kafka, analyse de flux et segmentation client
+- **Cloud** : déploiement d'applications sur Azure, architecture applicative, sécurité web
+- **Développement** : Python, Flask, Tkinter, APIs, pipelines de données
+- **Systèmes intelligents** : agents, logique de décision, optimisation et automatisation
+
+## Ce que je cherche
+
+Je souhaite développer mes compétences dans un cadre professionnel stimulant, au sein d'une équipe qui valorise l'innovation, la rigueur technique et la résolution de problèmes concrets. Je suis particulièrement motivé par les projets liés à :
+
+- IA / machine learning
+- vision par ordinateur
+- données et analytics
+- cloud / MLOps
+- systèmes intelligents et automatons
+
+## Mon approche
+
+Je privilégie une approche à la fois scientifique et pratique : comprendre le problème, identifier les données et les outils adaptés, concevoir une solution robuste, puis la valider et la rendre exploitable. Mon objectif est de créer des systèmes utiles, bien structurés et prêts à évoluer.
+
+Je reste ouvert aux collaborations et aux opportunités de stage, notamment pour des projets de fin d'études (PFE) à partir de mars 2027.
