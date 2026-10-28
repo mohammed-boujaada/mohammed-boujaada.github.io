@@ -7,8 +7,6 @@ author_profile: true
 
 # Compétences
 
-## Mohammed Boujaada
-
 ## Intelligence Artificielle & Machine Learning
 
 - Machine learning supervisé et non supervisé
