@@ -5,8 +5,6 @@ permalink: /certifications/
 author_profile: true
 ---
 
-# Certifications & Learning
-
 ### Obtenues
 - **Machine Learning Specialization – Coursera / DeepLearning.AI (2025)**
 - **Machine Learning – freeCodeCamp**

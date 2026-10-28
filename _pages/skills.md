@@ -5,8 +5,6 @@ permalink: /skills/
 author_profile: true
 ---
 
-# Compétences
-
 ## Intelligence Artificielle & Machine Learning
 
 - Machine learning supervisé et non supervisé
