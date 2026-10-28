@@ -6,7 +6,7 @@ main:
     url: /portfolio/
   - title: "CV"
     url: /cv/
+  - title: "Certifications"
+    url: /certifications/
   - title: "Compétences"
     url: /skills/
-  - title: "Certifications & Learning"
-    url: /certifications/
