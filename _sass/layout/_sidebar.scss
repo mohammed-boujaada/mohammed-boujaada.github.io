@@ -222,8 +222,7 @@
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
-  z-index: 10;
-  position: relative;
+  z-index: 20;
   cursor: pointer;
 
   li:last-child {
@@ -255,7 +254,7 @@
   border: 0;
   border-radius: $border-radius;
   background: transparent;
-  z-index: -1;
+  z-index: 30;
   box-shadow: none;
   cursor: default;
 
@@ -267,6 +266,7 @@
     border: 0;
     background: transparent;
     box-shadow: none;
+    z-index: 1;
   }
 
   &:before,
