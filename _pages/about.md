@@ -1,36 +1,30 @@
 ---
-title: "À propos"
-excerpt: "Mohammed Boujaada - Master IA & Technologies Émergentes"
+title: "Certifications & Learning"
+excerpt: "Certifications, parcours de formation et apprentissage continu"
 sitemap: false
 permalink: /about/
 ---
 
-# À propos
+# Certifications & Learning
 
-Je suis **Mohammed Boujaada**, étudiant en Master **Intelligence Artificielle et Technologies Émergentes (MIATE)** à la Faculté des Sciences Appliquées de Nador, Université Mohammed Premier.
+Je consacre une partie importante de mon temps à l’apprentissage continu, avec un objectif clair : développer des compétences solides en IA, data, cloud et solutions applicatives. Mon parcours de formation est orienté vers des thématiques à fort impact technique et professionnel.
 
-Mon parcours combine l’intelligence artificielle, le développement logiciel, la data et le cloud, avec un intérêt particulier pour la création de solutions utiles, structurées et prêtes à évoluer en environnement réel.
+## En cours
 
-## Mes domaines d’intérêt
+- **Deep Learning Specialization**
+- **Microsoft Azure Fundamentals (AZ-900)**
+- **Traitement du langage naturel avec classification et espaces vectoriels**
+- **IA générative, LLM et systèmes multi-agent**
 
-- **Intelligence artificielle** : apprentissage supervisé, deep learning, vision par ordinateur, modélisation prédictive
-- **Big Data** : Spark, Kafka, traitement de flux, analyse de données massives et segmentation client
-- **Cloud & déploiement** : Azure, architectures applicatives, applications web sécurisées et services cloud
-- **Développement** : Python, Flask, APIs, scripts fiables, pipelines de données et interfaces interactives
-- **Systèmes intelligents** : agents, logique de décision, automatisation et optimisation de processus
+## Domaines de progression
 
-## Ce que je cherche
+- Computer vision avancée
+- Machine learning appliqué
+- Traitement du langage naturel
+- Big Data et analytics
+- Cloud computing / Azure
+- Déploiement et mise en production de solutions IA
 
-Je souhaite m’insérer dans un environnement professionnel stimulant, au sein d’une équipe qui valorise l’innovation, la rigueur technique et la création de solutions concrètes. Je suis particulièrement motivé par les projets liés à :
+## Objectif
 
-- IA / machine learning
-- vision par ordinateur
-- big data et analytics
-- cloud / MLOps
-- systèmes intelligents et automatisation
-
-## Mon approche
-
-J’adopte une approche à la fois scientifique et pratique : comprendre le problème, identifier les bons outils et les données pertinentes, concevoir une solution robuste, puis la valider et la rendre exploitable. Mon objectif est de créer des systèmes utiles, bien structurés, mesurables et prêts à évoluer.
-
-Je reste ouvert aux collaborations, aux échanges techniques et aux opportunités de stage, notamment pour des projets de fin d’études (PFE) à partir de 2027.
+Mon objectif est d’acquérir une expertise solide dans la conception, la validation et le déploiement de systèmes intelligents, avec une forte attention à la qualité scientifique, la précision technique et la faisabilité industrielle.
