@@ -7,7 +7,12 @@ author_profile: true
 
 # Certifications & Learning
 
-## Certifications & parcours de formation
+## Certifications et parcours de formation
+
+### Obtenues
+- **Machine Learning Specialization – Coursera / DeepLearning.AI (2025)**
+- **Machine Learning – freeCodeCamp**
+- **Python – FUN MOOC**
 
 ### En cours
 - **Deep Learning Specialization**
@@ -15,22 +20,22 @@ author_profile: true
 - **Traitement du langage naturel avec classification et espaces vectoriels**
 - **IA générative, LLM et systèmes multi-agent**
 
-### Focus actuel
+### Axes de progression
 - Apprentissage profond pour la vision et les séquences
 - Modèles de langage et intégration IA dans des systèmes applicatifs
 - MLOps, déploiement et mise en production de modèles
 - Machine learning robuste, interprétable et exploitable
 
-## Domaines de formation priorisés
+## Domaines de formation prioritaires
 
 - Intelligence artificielle appliquée
-- Computer vision avancée
+- Vision par ordinateur avancée
 - Deep learning et architectures modernes
 - Traitement du langage naturel
 - Big Data et analytics
-- Cloud computing / Azure
+- Cloud computing et Azure
 
-## Progression & objectif
+## Progression et objectif
 
 Je consacre une part importante de mon temps à l’apprentissage continu, avec un objectif clair : acquérir une expertise solide et progressive dans la conception, la validation et le déploiement de solutions d’IA. J’accorde une attention particulière à la qualité scientifique, à la précision technique et à la faisabilité industrielle.
 
