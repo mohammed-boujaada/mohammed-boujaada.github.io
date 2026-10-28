@@ -7,8 +7,6 @@ author_profile: true
 
 # Certifications & Learning
 
-## Certifications et parcours de formation
-
 ### Obtenues
 - **Machine Learning Specialization – Coursera / DeepLearning.AI (2025)**
 - **Machine Learning – freeCodeCamp**
