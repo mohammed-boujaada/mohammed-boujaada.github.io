@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Compétences
+## Compétences
 
 ## Intelligence artificielle
 - Machine learning supervisé et non supervisé

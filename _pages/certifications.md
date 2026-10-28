@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # Certifications & Learning
+## Certifications & Learning
 
 Je consacre une part importante de mon temps à l'apprentissage continu, en développant à la fois des compétences techniques solides et des capacités plus avancées en intelligence artificielle, en data et en cloud.
 

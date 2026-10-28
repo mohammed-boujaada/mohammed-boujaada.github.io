@@ -6,6 +6,7 @@ permalink: /about/
 ---
 
 # À propos
+## À propos
 
 Je suis **Mohammed Boujaada**, étudiant en Master **Intelligence Artificielle et Technologies Émergentes (MIATE)** à la Faculté des Sciences Appliquées de Nador, Université Mohammed Premier. Je m'intéresse à la conception de systèmes intelligents capables de résoudre des problèmes concrets, de la recherche à la mise en production.
 
