@@ -2,7 +2,7 @@
 
 Site personnel : https://mohammed-boujaada.github.io
 
-Je suis étudiant en Master Intelligence Artificielle et Technologies Émergentes (MIATE) à la Faculté des Sciences Appliquées de Nador, Université Mohammed Premier. Je recherche un stage de fin d'études (PFE) à partir de mars 2027 en IA / machine learning / vision par ordinateur, en data / Big Data, ou en cloud / MLOps.
+Je suis étudiant en Master Intelligence Artificielle et Technologies Émergentes (MIATE) à la Faculté des Sciences Appliquées de Nador, Université Mohammed Premier. Je recherche un stage de fin d'études (PFE) à partir de février 2027 en IA / machine learning / vision par ordinateur, en data / Big Data, ou en cloud / MLOps.
 
 ## Contenu du site
 

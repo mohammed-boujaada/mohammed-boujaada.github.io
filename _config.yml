@@ -12,7 +12,7 @@ locale                   : "fr-FR"
 title                    : "Mohammed Boujaada | Master IA & Technologies Émergentes"
 title_separator          : "-"
 name                     : &name "Mohammed Boujaada"
-description              : "Mohammed Boujaada | Étudiant en Master IA et Technologies Émergentes, Université Mohammed Premier. Recherche un stage PFE en Intelligence Artificielle, Machine Learning, Deep Learning et Technologies Émergentes à partir de mars 2027."
+description              : "Mohammed Boujaada | Étudiant en Master IA et Technologies Émergentes, Université Mohammed Premier. Recherche un stage PFE en Intelligence Artificielle, Machine Learning, Deep Learning et Technologies Émergentes à partir de février 2027."
 url                      : "https://mohammed-boujaada.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mohammed-boujaada/mohammed-boujaada.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Mohammed Boujaada"
   pronouns         :
-  bio              : "Étudiant en Master IA et Technologies Émergentes, Université Mohammed Premier. Recherche un stage PFE (mars 2027)."
+  bio              : "Étudiant en Master IA et Technologies Émergentes, Université Mohammed Premier. Recherche un stage PFE (février 2027)."
   location         : "Nador, Maroc"
   employer         : "Université Mohammed Premier"
   uri              :
